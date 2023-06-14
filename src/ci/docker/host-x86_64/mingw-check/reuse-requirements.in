@@ -18,5 +18,5 @@ reuse
 # Ubuntu version of the builder.
 jinja2 < 3.1
 markupsafe < 2.1
-requests < 2.28
+requests < 2.32
 setuptools < 59.7
